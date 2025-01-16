@@ -5,7 +5,7 @@ from langchain.prompts import PromptTemplate
 import os
 
 # Set up Google API key
-os.environ['GOOGLE_API_KEY'] = 'YOUR_API_KEY'  # Replace with your actual API key
+os.environ['GOOGLE_API_KEY'] = 'AIzaSyCxKCDxVCPWGYpPn74G-bJ1M0ZQ5nghZb4'  # Replace with your actual API key
 
 # Create Streamlit UI
 st.title("Presentation Slide Generator")
